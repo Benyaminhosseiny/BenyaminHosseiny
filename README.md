@@ -1,7 +1,6 @@
 #### 🙋‍♂️ Hi, I'm @Benyaminhosseiny, PhD in remote sensing engineering.
-##### 🐱‍🏍 I'm currently working on radar and SAR signal processing algorithms for structural displacement monitoring. 
-##### 🐱‍👤 I'm also interested in machine or deep learning algorithms applied to earth observation problems.
-##### 🐱‍💻 I'm here to manage my codes and share some of them.
+##### 👨‍💻 My current projects and research works revolve around SAR signal processing, and developing machine/deep learning frameworks for various applications of earth observation.
+##### 📝 I try to share my implementations here, but if you came across to my publications and couldn't find the codes, feel free to reach out.
 <!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=BenyaminHosseiny&count_private=true&theme=github_dark&showicons=true)]()
 
